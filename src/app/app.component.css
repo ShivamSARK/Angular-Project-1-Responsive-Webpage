@@ -1,0 +1,689 @@
+
+/*-------------------------Home 1--------------------*/
+.home1{
+    background-color:rgb(13, 13, 75);
+    padding: 10px 40px;
+}
+/*------------------First Row---------------------*/
+.firstRow ul{
+    list-style: none;
+    text-align: right;
+}
+.firstRow ul li{
+    display: inline;
+    padding: 20px;
+}
+.firstRow ul li a{
+    color: white;
+    font-size: 10px;
+    font-weight: light;
+    text-decoration: none;
+}
+hr{
+    border-top: 1px solid whi;
+    
+}
+
+/*------------------Second Row---------------------*/
+
+.secondRow{
+   
+    text-align: right;
+}
+.secondRow .logo{
+    width: 100px;
+    height: 50px;
+    background-color:rgb(13, 13, 75);
+    float: left;
+}
+.secondRow .hideInput{
+    display: inline-block;
+    
+}
+.secondRow .hideUl{
+    display: inline-block;
+    
+}
+.secondRow .hideButton{
+    display: inline-block;
+    
+}
+.secondRow .hideToggle{
+    display: none;
+}
+ 
+.secondRow .inputBox{
+    border: none;
+    background-color:rgb(13, 13, 75);
+    outline: none;
+    border-bottom:1px solid white;
+}
+.secondRow .searchBtn{
+    background-color:rgb(13, 13, 75);
+    border: none;
+    outline: none;
+   
+}
+.secondRow ul{
+    list-style: none;
+    text-align: center;
+}
+.secondRow ul li{
+    display: inline;
+    padding: 0px 20px;
+}
+.secondRow ul li a{
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+    text-decoration: none;
+}
+.secondRow ul li a:hover{
+    color:gray;
+    font-size: 15px;
+    font-weight: bold;
+   
+}
+.secondRow .btn{
+    padding: 10px;
+    font-size: 15px;
+    margin-left: 10px;
+    font-weight: bold;
+    padding: 10px 20px;
+}
+.secondRow .hideToggle button{
+    background-color:rgb(13, 13, 75);
+   outline: none;
+   border: none;
+   margin-left: 15px;
+}
+
+
+/*------------------Third Row---------------------*/
+
+
+.thirdRow .box1 h3{
+    color:rgb(255,255,255);
+    font-weight: bolder;
+    font-size: 50px;
+
+}
+.thirdRow .box1 h4{
+    color: white;
+    font-weight: bolder;
+    font-size: 25px;
+
+}
+.thirdRow .box1 button{
+    padding: 10px 80px;
+    font-weight: bolder;
+    background-color: black;
+}
+.thirdRow .box2{
+    border: 1px solid rgb(134, 123, 123);
+    box-shadow: 0px 10px 100px rgb(13, 13, 75);
+    border-radius: 5px;
+    background-image: linear-gradient(to left, blue , rgb(124, 142, 243));
+}
+.thirdRow .box2 img{
+    width: 100%;
+    height: 100%;
+}
+.thirdRow .box2 h6{
+    font-weight: bolder;
+    color: white;
+    font-size: 19px;
+}
+.thirdRow .box2 hr{
+    border: none;
+    border-bottom: 1px solid #f3754a;
+}
+.thirdRow .box2 p{
+    color: white;
+    font-size: 12px;
+}
+.thirdRow .box2 button{
+    outline: none;
+    font-weight: bolder;
+    background-color: yellow;
+    margin-bottom: 10px;
+}
+.thirdRow .box2 .insideBox{
+    padding: 10px;
+   background-color:rgb(49, 49, 167);
+   opacity: 0.7;
+  
+}
+.thirdRow .box2 .insideBox p{
+    color: white;
+}
+
+/*------------------Fourth Row---------------------*/
+
+.fourthRow .box1{
+    border: 1px solid rgb(134, 123, 123);
+    background-color:white;
+    border-radius: 5px;
+}
+.fourthRow .box1 h4{
+    font-weight: bolder;
+    letter-spacing: -2px;
+}
+.fourthRow .box1 h6{
+    font-weight: bolder;
+    letter-spacing: -1.5px;
+    font-size: 18px;
+
+}
+.fourthRow .box1 p{
+    font-size: 15px;
+    color: gray;
+}
+.fourthRow .box1 button{
+    background-color: black;
+    color: white;
+    padding: 2px 20px;
+    font-size: 13px;
+    letter-spacing: -0.5px;
+
+}
+.fourthRow .box1 a{
+    font-size: 13px;
+    color: black;
+    border-bottom: 1px solid black;
+}
+
+.fourthRow .box2 .box2inside{
+    border: 1px solid rgb(134, 123, 123);
+    border-radius: 5px;
+    padding: 20px;
+    background-color: white;
+}
+.fourthRow .box2 h5{
+    font-weight: bolder;
+    letter-spacing: -1.5px;
+    font-size: 20px;
+}
+.fourthRow .box2 p{
+    font-size: 15px;
+    color: gray;
+}
+.fourthRow .box2 a{
+    font-size: 13px;
+    color: black;
+    border-bottom: 1px solid black;
+}
+.fourthRow .box2 button{
+    background-color: black;
+    color: white;
+    padding: 2px 20px;
+    font-size: 13px;
+    letter-spacing: -0.5px;
+
+}
+
+
+/*-------------------------Home 2--------------------*/
+.home2{
+    background-color:rgb(13, 13, 75);
+
+}
+.home2 strong{
+    color: white;
+}
+.home2 h1{
+    color: white;
+    letter-spacing: -2px;
+    font-weight: bolder;
+}
+.home2 p{
+    color: white;
+    letter-spacing: 1px;
+    font-size:15px ;
+}
+.home2 h5{
+    color:white;
+    letter-spacing: -1.5px;
+    font-weight: bolder;
+}
+.home2 button{
+   background-color: black;
+   color: white;
+   padding: 5px 25px;
+   font-size: 15px;
+   font-weight: bold;
+
+}
+.home2 span img{
+    max-width: 200px;
+}
+.home2 iframe{
+    width:100%;
+    height: 100%;
+}
+
+/*-------------------------Home 3--------------------*/
+
+.home3{
+    background-color:rgb(13, 13, 75);
+    text-align: center;
+}
+.home3 h1{
+    font-weight: bolder;
+    color: white;
+    letter-spacing: -2px;
+}
+.home3 p{
+    color: white;
+}
+.home3 button{
+    background-image: linear-gradient(to right, rgb(238, 182, 77) ,rgb(245, 45, 45));
+
+}
+
+/*-------------------------Home 4--------------------*/
+.home4{
+    background-color:rgb(13, 13, 75);
+}
+.home4 h1{
+    font-weight: bolder;
+    color: white;
+    letter-spacing: -2px;
+    word-spacing: -2px;
+}
+
+.home4 h6{
+    font-weight: bolder;
+    color: white;
+    letter-spacing: -1.5px;
+    font-size: 18px;
+    text-transform: uppercase;
+}
+.home4 p{
+    color: white;
+    letter-spacing: 1px;
+    font-size:15px ;
+}
+.home4 td{
+    color: white;
+    letter-spacing: 1px;
+    font-size:15px ;
+}
+.home4 thead{
+    border: none;
+}
+.home4 img{
+   max-width: 100%;
+   max-height: 100%;
+}
+.home4 tbody td{
+    border-bottom: 2px solid gray ;
+}
+
+/*-------------------------Home 5--------------------*/
+.home5{
+    background-color:rgb(13, 13, 75);
+
+}
+.home5 h1{
+    color: white;
+    letter-spacing: -2px;
+    font-weight: bolder;
+}
+.home5 img{
+    max-width: 300px;
+    max-height: 80;
+}
+.home5 p{
+    color: white;
+    letter-spacing: 1px;
+    font-size:15px ;
+    font-weight: bolder;
+    
+}
+
+/*-------------------------Home 6--------------------*/
+.home6{
+    background-color:rgb(13, 13, 75);
+}
+.home6 h1{
+    color: white;
+    letter-spacing: -2px;
+    font-weight: bolder;
+}
+.home6 p{
+    color: white;
+
+}
+
+/*-------------------------Home 7--------------------*/
+.home7{
+    background-color:rgb(13, 13, 75);
+}
+.home7 h1{
+    color: white;
+    letter-spacing: -2px;
+    font-weight: bolder;
+}
+.home7 p{
+    color: white;
+    letter-spacing: 1px;
+    font-size:15px ;
+    font-weight: bolder;
+    
+}
+.home7 img{
+    max-width: 100%;
+    max-height: 100%;
+ }
+ .home7 h4{
+     color: white;
+     letter-spacing: -1.5px;
+     font-weight: bolder;
+     font-size: 20px;
+ }
+ .home7 .box p{
+     color: white;
+     font-size: 12px;
+     font-weight: lighter;
+
+ }
+.home7 .box{
+    background-color:blue;
+    max-width: 250px;
+    display: inline-block;
+    border-radius: 5px;
+}
+.home7 .boxmd{
+    box-shadow: 0px 5px 10px white;
+}
+
+/*-------------------------Home 8--------------------*/
+.home8{
+    background-color:rgb(13, 13, 75);
+
+}
+.home8 h1{
+    color: white;
+    letter-spacing: -2px;
+    font-weight: bolder;
+    
+}
+.home8 p{
+    color: white;
+    letter-spacing: 1px;
+    font-size:15px ;
+    font-weight: bolder;
+    
+}
+
+.home8 h5{
+    font-weight: bolder;
+    font-size: 20px;
+    text-transform: uppercase;
+    letter-spacing: -1.5px;
+    color: white;
+
+}
+.home8 .box{
+    border: 1px solid white;
+    box-shadow: 0px 0px 10px gray;
+    padding: 20px 20px;
+    
+}
+.home8 .box p{
+    color: white;
+    letter-spacing: 1px;
+    font-size:15px ;
+    font-weight: bolder;
+    
+}
+.home8 .box button{
+    background-image: linear-gradient(to right, rgb(238, 182, 77) ,rgb(245, 45, 45));
+    font-weight: bolder;
+    padding: 5px 30px;
+}
+/*-------------------------Home 9--------------------*/
+.home9{
+    background-color:rgb(13, 13, 75);
+
+}
+.home9 .box{
+    border: 1px solid white;
+    box-shadow: 0px 0px 10px gray;
+}
+.home9 h1{
+    color: white;
+    letter-spacing: -2px;
+    font-weight: bolder;
+}
+.home9 p{
+    color: white;
+    letter-spacing: 1px;
+    font-size:15px ;
+    font-weight: bolder;
+    
+}
+.home9 .box h6{
+    font-weight: bolder;
+    font-size: 20px;
+    text-transform: uppercase;
+    letter-spacing: -1.5px;
+
+}
+.home9 .box p{
+    color: white;
+    letter-spacing: 1px;
+    font-size:15px ;
+    font-weight: lighter;
+    
+}
+.home9 .box{
+    text-align: center;
+   
+
+}
+.home9 .box .insideBox{
+    padding: 20px;
+}
+.home9 .box img{
+    max-width: 100%;
+    max-height: 100%;
+    margin-bottom: 20px;
+}
+.home9 .box h6{
+    font-weight: bolder;
+    color: white;
+}
+.home9 .boxnew{
+    background-image:linear-gradient(rgb(223, 51, 180), orange);
+}
+.home9 .boxnew h1{
+    font-weight: bolder;
+    color: white;
+}
+
+.home9 .boxnew button{
+    background-image: linear-gradient(to right, rgb(121, 121, 204) , blue);
+    padding: 5px 35px;
+    
+}
+.home9 button{
+    background-color: white;
+    color: rgb(48, 47, 47);
+    font-size: 15px;
+    font-weight: bolder;
+    padding: 5px 25px;
+}
+
+/*-------------------------Home 10--------------------*/
+.home10{
+    background-color:rgb(13, 13, 75);
+}
+.home10 h1{
+    color: white;
+    letter-spacing: -2px;
+    font-weight: bolder;
+}
+
+/*-------------------------Home 11--------------------*/
+.home11{
+    background-color:rgb(13, 13, 75);
+}
+.home11 .box{
+    border: 1px solid rgb(194, 185, 185);
+    border-radius: 5px;
+    border-top: none;
+    background-color: white;
+}
+.home11 h4{
+    color: white;
+    letter-spacing: -2px;
+    font-weight: bolder;
+    background-color: rgb(29, 27, 27);
+    padding: 5px;
+    border-radius: 5px;
+}
+.home11 .newbox p{
+    font-weight: bolder;
+    font-size: 15px;
+
+}
+.home11 h6{
+    color: white;
+    font-size: 12px;
+    font-weight: bolder;
+}
+.home11 h5{
+    color: white;
+    font-size: 10px;
+    font-weight: bold;
+}
+
+.home11 h3{
+    color: white;
+    letter-spacing: -2px;
+    font-weight: bolder;
+    font-size: 55px;
+}
+.home11 img{
+    max-width: 100%;
+    max-height: 100%;
+    margin-top: 5px;
+}
+
+
+/*-------------------------Home 12--------------------*/
+.home12{
+    background-color:rgb(13, 13, 75);
+}
+.home12 strong{
+    color: white;
+}
+.home12 ul{
+    list-style: none;
+}
+.home12 ul li{
+    padding: 10px;
+}
+.home12 ul li a{
+    font-size: 15px;
+    font-weight: light;
+    text-decoration: none;
+   
+}
+.home12 ul li a:hover{
+    font-size: 15px;
+    font-weight: light;
+    text-decoration: none;
+   color: white;
+}
+.home12 p{
+    color: rgb(240, 229, 229);
+    font-size: 15px;
+}
+.home12 input{
+    background-color: rgb(13, 13, 75);
+    outline: none;
+    border: 1px solid gray;
+    border-radius: 5px;
+    padding: 5px 30px;
+    width: 100%;
+}
+.home12 button{
+    background-image: linear-gradient(to right, rgb(235, 88, 88), rgb(31, 51, 233));
+    border: 1px solid red;
+    padding: 5px 30px;
+    margin-top: 20px;
+    width: 100%;
+    border-radius: 5px;
+}
+.home12 .icons a{
+    padding: 0px 20px;
+   
+
+}
+
+
+/*---------------------Media Querry-------------------*/
+
+@media screen and (max-width: 1150px){
+    .secondRow .hideInput{
+        display: none !important;
+    }
+    .home9 .boxnew h1{
+        font-weight: bolder;
+        color: white;
+        font-size: 25px;
+    }
+
+    
+}
+@media screen and (max-width:830px){
+    .secondRow .hideUl{
+        display: none !important;
+    }
+    .secondRow .hideToggle{
+        display: inline-block;
+    }
+    .secondRow .btn{
+        margin-left: 5px;
+        padding: 5px 10px;
+        margin-right: 5px;
+        
+    }
+    .firstRow{
+        display: none;
+    }
+    hr{
+        display: none;
+    }
+    .home2 span img{
+        max-width: 120px;
+    }
+    .home4 h1{
+        font-weight: bolder;
+        color: black;
+        letter-spacing: -1px;
+        font-size: 35px;
+    }
+    .home8 h1{
+        font-size: 25px;
+    }
+    .home11 .box{
+        display: none;
+    }
+    .home7 .box{
+        background-color:blue;
+        max-width: 200px;
+        display: inline-block;
+        border-radius: 5px;
+        margin-bottom: 10px;
+    }
+    .home7 .boxouter{
+        max-width: 250px;
+
+    }
+    
+
+}
