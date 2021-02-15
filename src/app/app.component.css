@@ -167,11 +167,11 @@ hr{
 }
 .fourthRow .box1 h4{
     font-weight: bolder;
-    letter-spacing: -2px;
+    letter-spacing: 1px;
 }
 .fourthRow .box1 h6{
     font-weight: bolder;
-    letter-spacing: -1.5px;
+    letter-spacing: 1px;
     font-size: 18px;
 
 }
@@ -184,7 +184,7 @@ hr{
     color: white;
     padding: 2px 20px;
     font-size: 13px;
-    letter-spacing: -0.5px;
+    letter-spacing: 1px;
 
 }
 .fourthRow .box1 a{
@@ -201,7 +201,7 @@ hr{
 }
 .fourthRow .box2 h5{
     font-weight: bolder;
-    letter-spacing: -1.5px;
+    letter-spacing: 1px;
     font-size: 20px;
 }
 .fourthRow .box2 p{
@@ -218,7 +218,7 @@ hr{
     color: white;
     padding: 2px 20px;
     font-size: 13px;
-    letter-spacing: -0.5px;
+    letter-spacing: 1px;
 
 }
 
@@ -233,7 +233,7 @@ hr{
 }
 .home2 h1{
     color: white;
-    letter-spacing: -2px;
+    letter-spacing: 1px;
     font-weight: bolder;
 }
 .home2 p{
@@ -243,7 +243,7 @@ hr{
 }
 .home2 h5{
     color:white;
-    letter-spacing: -1.5px;
+    letter-spacing: 1px;
     font-weight: bolder;
 }
 .home2 button{
@@ -271,7 +271,7 @@ hr{
 .home3 h1{
     font-weight: bolder;
     color: white;
-    letter-spacing: -2px;
+    letter-spacing: 1px;
 }
 .home3 p{
     color: white;
@@ -288,14 +288,14 @@ hr{
 .home4 h1{
     font-weight: bolder;
     color: white;
-    letter-spacing: -2px;
-    word-spacing: -2px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
 }
 
 .home4 h6{
     font-weight: bolder;
     color: white;
-    letter-spacing: -1.5px;
+    letter-spacing: 1px;
     font-size: 18px;
     text-transform: uppercase;
 }
@@ -327,7 +327,7 @@ hr{
 }
 .home5 h1{
     color: white;
-    letter-spacing: -2px;
+    letter-spacing: 1px;
     font-weight: bolder;
 }
 .home5 img{
@@ -348,7 +348,7 @@ hr{
 }
 .home6 h1{
     color: white;
-    letter-spacing: -2px;
+    letter-spacing: 1px;
     font-weight: bolder;
 }
 .home6 p{
@@ -362,7 +362,7 @@ hr{
 }
 .home7 h1{
     color: white;
-    letter-spacing: -2px;
+    letter-spacing: 1px;
     font-weight: bolder;
 }
 .home7 p{
@@ -378,7 +378,7 @@ hr{
  }
  .home7 h4{
      color: white;
-     letter-spacing: -1.5px;
+     letter-spacing: 1px;
      font-weight: bolder;
      font-size: 20px;
  }
@@ -405,7 +405,7 @@ hr{
 }
 .home8 h1{
     color: white;
-    letter-spacing: -2px;
+    letter-spacing: 1px;
     font-weight: bolder;
     
 }
@@ -421,7 +421,7 @@ hr{
     font-weight: bolder;
     font-size: 20px;
     text-transform: uppercase;
-    letter-spacing: -1.5px;
+    letter-spacing: 1px;
     color: white;
 
 }
@@ -454,7 +454,7 @@ hr{
 }
 .home9 h1{
     color: white;
-    letter-spacing: -2px;
+    letter-spacing: 1px;
     font-weight: bolder;
 }
 .home9 p{
@@ -468,7 +468,7 @@ hr{
     font-weight: bolder;
     font-size: 20px;
     text-transform: uppercase;
-    letter-spacing: -1.5px;
+    letter-spacing: 1px;
 
 }
 .home9 .box p{
@@ -522,7 +522,7 @@ hr{
 }
 .home10 h1{
     color: white;
-    letter-spacing: -2px;
+    letter-spacing: 1px;
     font-weight: bolder;
 }
 
@@ -538,7 +538,7 @@ hr{
 }
 .home11 h4{
     color: white;
-    letter-spacing: -2px;
+    letter-spacing: 1px;
     font-weight: bolder;
     background-color: rgb(29, 27, 27);
     padding: 5px;
@@ -562,7 +562,7 @@ hr{
 
 .home11 h3{
     color: white;
-    letter-spacing: -2px;
+    letter-spacing: 1px;
     font-weight: bolder;
     font-size: 55px;
 }
@@ -664,7 +664,7 @@ hr{
     .home4 h1{
         font-weight: bolder;
         color: black;
-        letter-spacing: -1px;
+        letter-spacing: 1px;
         font-size: 35px;
     }
     .home8 h1{
